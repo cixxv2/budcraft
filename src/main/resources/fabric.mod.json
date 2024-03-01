@@ -18,6 +18,9 @@
 		"main": [
 			"net.cixx.budcraft.Budcraft"
 		],
+		"client": [
+			"net.cixx.budcraft.BudcraftClient"
+		],
 		"fabric-datagen": [
 			"net.cixx.budcraft.BudcraftDataGenerator"
 		]

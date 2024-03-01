@@ -18,6 +18,7 @@ public class ModItemGroups {
                         //Items
 
                         entries.add(ModItems.MARIJUANA);
+                        entries.add(ModItems.CODEINE);
                         entries.add(ModItems.LEAN);
                         entries.add(ModItems.DOUBLE_CUP);
                         entries.add(ModItems.STYROFOAM_CUP);

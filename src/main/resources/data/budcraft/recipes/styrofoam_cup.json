@@ -3,15 +3,15 @@
   "category": "misc",
   "pattern": [
     "   ",
-    " # ",
+    "# #",
     " # "
   ],
   "key": {
     "#": {
-      "item": "budcraft:styrofoam_cup"
+      "item": "budcraft:styrofoam"
     }
   },
   "result": {
-    "item": "budcraft:double_cup"
+    "item": "budcraft:styrofoam_cup"
   }
 }

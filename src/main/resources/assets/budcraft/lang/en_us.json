@@ -2,5 +2,7 @@
   "item.budcraft.marijuana": "Marijuana",
   "item.budcraft.lean": "Lean",
 
+  "block.budcraft.hash_block": "Hash Block",
+
   "itemgroup.lean": "Budcraft"
 }

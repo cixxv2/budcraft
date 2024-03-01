@@ -1,5 +1,6 @@
 package net.cixx.budcraft;
 
+import net.cixx.budcraft.block.ModBlocks;
 import net.cixx.budcraft.item.ModItemGroups;
 import net.cixx.budcraft.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -15,6 +16,7 @@ public class Budcraft implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 		ModItemGroups.registerItemGroups();
 	}
 }

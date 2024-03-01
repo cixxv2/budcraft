@@ -13,6 +13,9 @@ import net.minecraft.util.Identifier;
 public class ModItems {
     public static final Item MARIJUANA = registerItem("marijuana", new Item(new FabricItemSettings()));
     public static final Item LEAN = registerItem("lean", new Item(new FabricItemSettings()));
+    public static final Item STYROFOAM_CUP = registerItem("styrofoam_cup", new Item(new FabricItemSettings()));
+    public static final Item STYROFOAM = registerItem("styrofoam", new Item(new FabricItemSettings()));
+    public static final Item DOUBLE_CUP = registerItem("double_cup", new Item(new FabricItemSettings()));
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
 

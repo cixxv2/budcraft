@@ -16,9 +16,15 @@ public class ModItemGroups {
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.lean"))
                     .icon(() -> new ItemStack(ModItems.LEAN)).entries((displayContext, entries) -> {
                         //Items
-                        entries.add(ModItems.LEAN);
-                        entries.add(ModItems.MARIJUANA);
 
+                        entries.add(ModItems.MARIJUANA);
+                        entries.add(ModItems.LEAN);
+                        entries.add(ModItems.DOUBLE_CUP);
+                        entries.add(ModItems.STYROFOAM_CUP);
+                        entries.add(ModItems.STYROFOAM);
+
+                        //Blocks
+                        entries.add(ModBlocks.STYROFOAM_BLOCK);
                         entries.add(ModBlocks.HASH_BLOCK);
 
                     }).build());

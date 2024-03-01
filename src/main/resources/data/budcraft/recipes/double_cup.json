@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "budcraft:styrofoam_cup",
+      "item": "budcraft:styrofoam_cup"
+    }
+  ],
+  "result": {
+    "item": "budcraft:double_cup",
+    "count": 1
+  }
+}

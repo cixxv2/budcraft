@@ -1,8 +1,12 @@
 {
   "item.budcraft.marijuana": "Marijuana",
   "item.budcraft.lean": "Lean",
+  "item.budcraft.styrofoam_cup": "Styrofoam Cup",
+  "item.budcraft.double_cup": "Double Cup",
+  "item.budcraft.styrofoam": "Styrofoam",
 
-  "block.budcraft.hash_block": "Hash Block",
+  "block.budcraft.hash_block": "Hashish Block",
+  "block.budcraft.styrofoam_block": "Styrofoam Block",
 
   "itemgroup.lean": "Budcraft"
 }

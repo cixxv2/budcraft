@@ -15,6 +15,8 @@ import net.minecraft.util.Identifier;
 public class ModBlocks {
     public static final Block HASH_BLOCK = registerBlock("hash_block",
             new Block(FabricBlockSettings.copyOf(Blocks.GRASS_BLOCK).sounds(BlockSoundGroup.MUD)));
+    public static final Block STYROFOAM_BLOCK = registerBlock("styrofoam_block",
+            new Block(FabricBlockSettings.copyOf(Blocks.WHITE_WOOL).sounds(BlockSoundGroup.SNOW)));
 
 
     private static Block registerBlock(String name, Block block) {

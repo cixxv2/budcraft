@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "budcraft:codeine"
+    },
+    {
+      "item": "budcraft:double_cup"
+    }
+  ],
+  "result": {
+    "item": "budcraft:lean",
+    "count": 1
+  }
+}

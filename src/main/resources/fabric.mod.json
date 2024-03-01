@@ -3,9 +3,9 @@
 	"id": "budcraft",
 	"version": "${version}",
 	"name": "Budcraft",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "A mod that adds most substances into Minecraft!",
 	"authors": [
-		"Me!"
+		"cixx"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",

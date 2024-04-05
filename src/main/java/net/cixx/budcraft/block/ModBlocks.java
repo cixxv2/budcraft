@@ -5,6 +5,7 @@ import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
+import net.minecraft.block.PillarBlock;
 import net.minecraft.block.TransparentBlock;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
@@ -28,9 +29,9 @@ public class ModBlocks {
 
     //Wood Stuff
     public static final Block ELDERBARK_LOG = registerBlock("elderbark_log",
-            new Block(FabricBlockSettings.copyOf(Blocks.OAK_LOG).sounds(BlockSoundGroup.WOOD)));
+            new PillarBlock(FabricBlockSettings.copyOf(Blocks.OAK_LOG).strength(4f).sounds(BlockSoundGroup.WOOD)));
     public static final Block ELDERBARK_PLANKS = registerBlock("elderbark_planks",
-            new Block(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS).sounds(BlockSoundGroup.WOOD)));
+            new PillarBlock(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS).strength(4f).sounds(BlockSoundGroup.WOOD)));
 
 
     private static Block registerBlock(String name, Block block) {

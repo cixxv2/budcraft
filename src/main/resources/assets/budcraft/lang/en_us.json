@@ -10,6 +10,8 @@
   "block.budcraft.styrofoam_block": "Styrofoam Block",
   "block.budcraft.barred_glass": "Barred Glass",
   "block.budcraft.knitted_glass": "Knitted Glass",
+  "block.budcraft.elderbark_log": "Elderbark Log",
+  "block.budcraft.elderbark_planks": "Elderbark Planks",
 
   "itemgroup.lean": "Budcraft"
 }

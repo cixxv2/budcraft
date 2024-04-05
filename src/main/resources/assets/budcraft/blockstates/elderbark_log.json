@@ -1,7 +1,7 @@
 {
   "variants": {
     "axis=x": {
-      "model": "budcraft:block/elderbark_log_horizontal",
+      "model": "budcraft:block/elderbark_log",
       "x": 90,
       "y": 90
     },
@@ -9,7 +9,7 @@
       "model": "budcraft:block/elderbark_log"
     },
     "axis=z": {
-      "model": "budcraft:block/elderbark_log_horizontal",
+      "model": "budcraft:block/elderbark_log",
       "x": 90
     }
   }

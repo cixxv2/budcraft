@@ -1,0 +1,7 @@
+{
+  "parent": "budcraft:block/cube_column",
+  "textures": {
+    "end": "budcraft:block/elderbark_log_top",
+    "side": "budcraft:block/elderbark_log"
+  }
+}

@@ -8,6 +8,8 @@
 
   "block.budcraft.hash_block": "Hashish Block",
   "block.budcraft.styrofoam_block": "Styrofoam Block",
+  "block.budcraft.barred_glass": "Barred Glass",
+  "block.budcraft.knitted_glass": "Knitted Glass",
 
   "itemgroup.lean": "Budcraft"
 }

@@ -27,6 +27,10 @@ public class ModItemGroups {
                         //Blocks
                         entries.add(ModBlocks.STYROFOAM_BLOCK);
                         entries.add(ModBlocks.HASH_BLOCK);
+                        entries.add(ModBlocks.BARRED_GLASS);
+                        entries.add(ModBlocks.KNITTED_GLASS);
+                        entries.add(ModBlocks.ELDERBARK_LOG);
+                        entries.add(ModBlocks.ELDERBARK_PLANKS);
 
                     }).build());
 
